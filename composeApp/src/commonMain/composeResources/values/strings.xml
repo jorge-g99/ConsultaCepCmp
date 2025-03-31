@@ -1,0 +1,16 @@
+<resources>
+    <string name="aguarde_um_momento_e_tente_novamente">Aguarde um momento e tente novamente</string>
+    <string name="bairro">Bairro</string>
+    <string name="carregando_cep">Carregando CEP</string>
+    <string name="cep">CEP</string>
+    <string name="digite_o_cep">Digite o CEP</string>
+    <string name="cep_invalido">Informe um CEP válido</string>
+    <string name="cep_obrigatorio">O CEP é obrigatório</string>
+    <string name="cidade">Cidade</string>
+    <string name="localidade">Localidade</string>
+    <string name="uf">UF</string>
+    <string name="buscar">Buscar</string>
+    <string name="erro_ao_carregar_cep">Não foi possível consultar o CEP. Aguarde um momento e tente novamente.</string>
+    <string name="sucesso_ao_carregar">Sucesso ao carregar</string>
+    <string name="logradouro">Logradouro</string>
+</resources>
